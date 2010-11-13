@@ -14,3 +14,4 @@ clean:
 
 main: $(OBJ)
 	$(CC) $(OBJ) $(LIBS) -o rle
+

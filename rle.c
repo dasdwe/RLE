@@ -1,6 +1,6 @@
 /*
  * RLE - kompresja i dekompresja pliku.
- * Wykonał: Krzysztof Smoliński
+ * Wykonał: K.S.
  * 
  * Copyrights 2010 (c) K.S
  * 
