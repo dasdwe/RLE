@@ -163,7 +163,7 @@ int main(int argc, char *argv[]) {
 	}
 
 	/* Krotkie info o autorze. */
-	printf("RLE - kompresja i dekompresja pliku.\n\nProgram napisany na zaliczenie projektu z AiSD.\nWykonali: Krzysztof Smoliński & Łukasz Stanecki.\n\n");
+	printf("RLE - kompresja i dekompresja pliku.\n\n");
 	
 	/* Jezeli podano 3 parametr to przypisujemy go do 'w'. A jak nie to wyswietlamy menu. */
 	if ( argc == 4 ) strncpy(w, argv[3], 1);
